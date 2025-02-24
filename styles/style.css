@@ -117,21 +117,19 @@
 }
 
 .cover__description-text {
-    font-family: Raleway; 
     font-weight: 400;
     font-size: 22px;
     text-transform: uppercase;
     word-spacing: 1.14rem;
 }
 
-.bet-button{
+.bet-button {
     padding-top: 12px;
     padding-bottom: 10px;
     width: 256px;
     border: solid 1px;
     color: inherit;
     background-color: transparent;
-    font-family: Raleway; 
     font-weight: 500;
     font-size: 22px;
     text-transform: uppercase;
